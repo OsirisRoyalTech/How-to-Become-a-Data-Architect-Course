@@ -1,0 +1,14 @@
+3.1 What is Data Modeling?
+  Definition: Data modeling is the process of creating a conceptual framework that defines the relationships, data types, and business rules for storing and processing data.
+  Types of Data Models:
+  Conceptual Data Model: High-level design showing entities and relationships.
+  Logical Data Model: Defines the structure of the data without considering physical implementation.
+  Physical Data Model: Details how the data will be stored physically (e.g., tables, indexes, partitions).
+
+3.2 Example: Data Modeling for an E-Commerce Site
+  Entities: Customer, Order, Product, Payment.
+  Relationships:
+  A Customer places many Orders.
+  An Order contains many Products.
+  A Payment corresponds to an Order.
+  Real-World Solution: A star schema design for the data warehouse, with a fact table for orders and dimension tables for customers, products, and payment methods.
