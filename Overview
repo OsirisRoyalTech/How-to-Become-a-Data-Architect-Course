@@ -2,3 +2,8 @@ Overview:
   This course is designed to help you become a proficient Data Architect by teaching you the fundamentals, tools, techniques, 
   and best practices used in the field. You will learn how to design scalable, reliable, and efficient data systems and architectures 
   that meet the needs of modern organizations. The course will use real-world examples and solutions to illustrate each concept.
+
+Prerequisites
+  Basic understanding of databases and data management.
+  Familiarity with data analytics concepts.
+  Programming experience (preferably SQL and Python).
