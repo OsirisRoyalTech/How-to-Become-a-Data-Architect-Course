@@ -1,0 +1,17 @@
+1.1 What is Data Architecture?
+  Definition: Data Architecture refers to the design of data systems and processes to manage data flow, storage, and analysis in an organization.
+  Key responsibilities of a Data Architect:
+  Design and structure databases and data systems.
+  Optimize data storage and access.
+  Ensure data consistency, security, and integrity.
+  Collaborate with data engineers, analysts, and stakeholders to meet business requirements.
+
+1.2 Data Architect vs Data Engineer vs Data Scientist
+  Data Architect: Designs the structure and flow of data in an organization. Focuses on scalability, performance, and the overall blueprint of data systems.
+  Data Engineer: Implements and maintains the systems designed by the Data Architect, ensuring data pipelines are efficient.
+  Data Scientist: Uses data to develop models and provide insights but doesn’t generally design the architecture.
+
+1.3 Real-World Example
+  Company Scenario: An e-commerce platform is growing rapidly. The company collects massive amounts of customer data, transaction logs, 
+  and product details. The Data Architect is responsible for designing a system that can scale as the company grows, 
+  ensuring high availability, and enabling efficient querying for analytics.
