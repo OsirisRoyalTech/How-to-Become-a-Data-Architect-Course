@@ -1,0 +1,19 @@
+2.1 Relational vs. Non-Relational Databases
+  Relational Databases (RDBMS): Use structured query language (SQL) and store data in tables with predefined schemas. E.g., MySQL, PostgreSQL.
+  Non-Relational Databases (NoSQL): Store unstructured or semi-structured data. E.g., MongoDB, Cassandra, Firebase.
+  When to Use Each:
+  Relational databases are best for structured data and complex queries.
+  Non-relational databases are ideal for large-scale unstructured data, fast read/write operations, or horizontally scalable applications.
+
+2.2 Data Warehousing
+  Definition: A data warehouse is a centralized repository that stores data from multiple sources, optimized for analytical querying.
+  Popular Tools: Snowflake, Amazon Redshift, Google BigQuery.
+  Real-World Example: A retail company integrates data from different sales channels (website, in-store, third-party platforms) into a data warehouse to perform aggregated reporting.
+
+2.3 ETL (Extract, Transform, Load)
+  Process Overview:
+  Extract: Collect data from different sources.
+  Transform: Clean, format, and transform the data for analysis.
+  Load: Load the transformed data into a data warehouse or another destination.
+  Tools: Apache Kafka, Talend, Informatica, Apache NiFi.
+  Example: Integrating transactional data from multiple systems (e.g., inventory management, customer database) into a unified reporting platform.
