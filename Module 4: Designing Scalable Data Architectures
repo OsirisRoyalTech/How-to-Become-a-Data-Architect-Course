@@ -1,0 +1,13 @@
+4.1 Scalability and Performance Optimization
+  Horizontal vs. Vertical Scaling:
+  Horizontal Scaling: Adding more machines to distribute the load (e.g., distributed databases like Cassandra).
+  Vertical Scaling: Increasing the power of a single machine (e.g., upgrading hardware for a SQL database).
+  Sharding: Splitting data across multiple servers based on a key (e.g., customer ID, geographic region).
+
+4.2 Real-World Example: Scaling a Social Media Platform
+  As the user base grows, the data architecture must be scaled to support millions of users posting content, comments, and likes in real-time.
+  Solution: Use a combination of horizontal scaling, sharding, and caching (e.g., Redis) to ensure the system can handle high throughput.
+
+4.3 Data Caching and CDN (Content Delivery Network)
+  Caching strategies can significantly improve performance by storing frequently accessed data in-memory (e.g., Redis, Memcached).
+  Example: Caching the results of common queries in an e-commerce website, reducing database load.
