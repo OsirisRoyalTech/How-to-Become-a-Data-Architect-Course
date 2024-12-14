@@ -1,0 +1,9 @@
+7.1 Real-Time Data Architecture
+  •	Use Cases: Real-time analytics, monitoring systems, and fraud detection.
+  •	Technologies: Apache Kafka, Apache Flink, AWS Kinesis.
+Example: A financial institution needs to monitor transactions in real-time to detect fraud. The Data Architect designs a real-time streaming pipeline using Apache Kafka to ingest and process data in real-time.
+
+7.2 Machine Learning Integration
+  •	Data Pipeline for Machine Learning: Building pipelines that integrate machine learning models into the data architecture, enabling predictive analytics.
+  •	Tools: TensorFlow, PyTorch, MLflow, Kubeflow.
+Example: For a retail business, integrating a recommendation system to suggest products to users based on historical data.
