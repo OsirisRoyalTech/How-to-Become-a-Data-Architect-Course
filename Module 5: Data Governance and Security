@@ -1,0 +1,10 @@
+5.1 Data Quality and Consistency
+  •	Data Validation: Ensuring data adheres to predefined formats and quality standards.
+  •	Data Cleansing: Removing duplicates, handling missing values, and correcting inaccuracies.
+
+5.2 Security and Compliance
+  •	Encryption: Ensuring data is encrypted at rest and in transit.
+  •	Access Control: Implementing user roles and permissions to restrict access to sensitive data.
+  •	Compliance: Understanding regulations like GDPR, HIPAA, and ensuring data storage and usage meet legal requirements.
+
+Example: For a healthcare company, ensuring patient data is encrypted and access-controlled to meet HIPAA compliance.
