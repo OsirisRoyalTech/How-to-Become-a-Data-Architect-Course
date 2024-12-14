@@ -1,0 +1,15 @@
+8.1 Key Skills and Tools for a Data Architect
+  •	Database Management: SQL, NoSQL, Data Warehousing.
+  •	Data Modeling: ERD, Star Schema, Snowflake Schema.
+  •	Big Data Technologies: Hadoop, Spark.
+  •	Cloud Technologies: AWS, Azure, Google Cloud.
+  •	Programming: SQL, Python, Java.
+
+8.2 Certifications
+  •	Google Professional Data Engineer.
+  •	AWS Certified Solutions Architect.
+  •	Microsoft Azure Data Architect.
+
+8.3 Real-World Job Example: Data Architect at a Bank
+  •	A data architect in a banking institution needs to create a high-performance data warehouse, integrating data from customer accounts, 
+    transaction logs, and external data sources, while ensuring compliance with financial regulations.
