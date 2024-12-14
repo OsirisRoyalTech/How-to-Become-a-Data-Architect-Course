@@ -1,0 +1,9 @@
+6.1 Cloud-Based Data Architecture
+  •	Advantages of Cloud: Scalability, flexibility, cost-efficiency.
+  •	Popular Cloud Platforms: AWS (Amazon Web Services), Azure, Google Cloud.
+
+6.2 Data Lakes vs. Data Warehouses in the Cloud
+  •	Data Lakes: Store raw, unstructured data, ideal for big data.
+  •	Data Warehouses: Store structured and processed data for analytical queries.
+
+Real-World Example: A media company stores raw video footage in a data lake and processes it for use in a data warehouse for analysis on viewership patterns.
